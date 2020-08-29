@@ -1,7 +1,5 @@
 ---
 layout: page
-title: About
-permalink: /about/
 ---
 
 I am a PhD student in the ECE department at Northeastern University.
