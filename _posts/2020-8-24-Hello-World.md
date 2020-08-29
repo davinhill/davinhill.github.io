@@ -3,8 +3,5 @@ layout: post
 title: Hello World!
 ---
 
-Some text here.
+This is the first post for this website. I'm still not sure what should exist here -- possibly papers I'm reading, miscellaneous projects I try out, etc.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
