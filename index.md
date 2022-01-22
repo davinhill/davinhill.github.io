@@ -9,7 +9,7 @@ I collaborate with the [Channing Division of Network Medicine](https://www.brigh
 
 &nbsp;
 
-### Interests
+### Research Interests
 * Black-Box interpretability, especially feature attribution and feature selection methods.
 * Uncertainty Quantification in Neural Networks
 * Variational Inference and Normalizing Flows
