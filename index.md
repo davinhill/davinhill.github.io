@@ -19,7 +19,7 @@ I collaborate with the [Channing Division of Network Medicine](https://www.brigh
 
 ### Publications  
 
-Aria Masoomi, **Davin Hill**, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter J. Castaldi, Stratis Ioannidis, & Jennifer Dy. *Explanations of Black-Box Models based on Directional Feature Interactions*. Accepted at ICLR 2022.
+Aria Masoomi, **Davin Hill**, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter J. Castaldi, Stratis Ioannidis, & Jennifer Dy. *Explanations of Black-Box Models based on Directional Feature Interactions*. Accepted at ICLR 2022 as a Spotlight Presentation (~5% of submissions). [[Preprint]](https://openreview.net/forum?id=45Mr7LeKR9)
 
 
 
@@ -29,4 +29,4 @@ Aria Masoomi, **Davin Hill**, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, P
 
 &nbsp;
 
-Zulqarnain Khan, Aria Masoomi, **Davin Hill**, & Jennifer Dy. *Analyzing the Effects of Classifier Lipschitzness on Explainers*. Manuscript in preparation.
+Zulqarnain Khan, Aria Masoomi, **Davin Hill**, & Jennifer Dy. *Analyzing the Effects of Classifier Lipschitzness on Explainers*. Manuscript in preparation. [[Preprint]] (https://openreview.net/pdf?id=mTcO4-QCOB)
