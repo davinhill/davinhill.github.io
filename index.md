@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I am a PhD candidate in the ECE department at Northeastern University and part of Dr. [Jennifer Dy](https://ece.northeastern.edu/fac-ece/jdy/)'s Machine Learning Lab at the [SPIRAL](https://web.northeastern.edu/spiral/) research center. I'm broadly interested in improving transparency in black-box prediction models, specifically in relation to interpretability and uncertainty quantification.
+I am a PhD candidate in the ECE department at Northeastern University and part of Dr. [Jennifer Dy](https://coe.northeastern.edu/people/dy-jennifer/)'s Machine Learning Lab at the [SPIRAL](https://web.northeastern.edu/spiral/) research center. I'm broadly interested in improving transparency in black-box prediction models, specifically in relation to interpretability and uncertainty quantification.
 
 I collaborate with the [Channing Division of Network Medicine](https://www.brighamandwomens.org/research/departments/channing-division-of-network-medicine/overview) in applying machine learning methods to various challenges related to Chronic Obstructive Pulmonary Disease (COPD). COPD is a lung disease commonly associated with smoking and long-term exposure to lung irritants. We work with multiomics, spirometry data, and lung imaging to improve subtyping, disease progression, diagnosis, etc.
 
