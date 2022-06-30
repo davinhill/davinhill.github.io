@@ -29,4 +29,4 @@ Aria Masoomi, **Davin Hill**, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, P
 
 &nbsp;
 
-Zulqarnain Khan, Aria Masoomi, **Davin Hill**, & Jennifer Dy. *Analyzing the Effects of Classifier Lipschitzness on Explainers*. Manuscript in preparation. [[Preprint]](https://openreview.net/pdf?id=mTcO4-QCOB)
+Zulqarnain Khan, Aria Masoomi, **Davin Hill**, & Jennifer Dy. *Analyzing the Effects of Classifier Lipschitzness on Explainers*. Manuscript in preparation. [[Preprint]](https://arxiv.org/abs/2206.12481)
