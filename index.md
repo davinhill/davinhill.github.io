@@ -19,7 +19,7 @@ I collaborate with the [Channing Division of Network Medicine](https://www.brigh
 
 ### Publications  
 
-Aria Masoomi, **Davin Hill**, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter J. Castaldi, Stratis Ioannidis, & Jennifer Dy. *Explanations of Black-Box Models based on Directional Feature Interactions*. Accepted at ICLR 2022 as a spotlight presentation (~5% of submissions). [[Paper]](https://openreview.net/forum?id=45Mr7LeKR9) [[Code]](https://github.com/davinhill/BivariateShapley) [[Poster]](https://drive.google.com/file/d/140B_Qp1nS3jXNHMlLmNu4PO-9IpioUvH/view?usp=sharing)
+Aria Masoomi, **Davin Hill**, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter J. Castaldi, Stratis Ioannidis, & Jennifer Dy. *Explanations of Black-Box Models based on Directional Feature Interactions*. Accepted at ICLR 2022 as a spotlight presentation (~5% of submissions). [[Paper]](https://openreview.net/forum?id=45Mr7LeKR9) [[Poster]](https://drive.google.com/file/d/140B_Qp1nS3jXNHMlLmNu4PO-9IpioUvH/view?usp=sharing) [[Code]](https://github.com/davinhill/BivariateShapley) 
 
 
 
