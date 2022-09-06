@@ -19,13 +19,13 @@ I collaborate with the [Channing Division of Network Medicine](https://www.brigh
 
 ### Publications  
 
-Aria Masoomi, **Davin Hill**, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter J. Castaldi, Stratis Ioannidis, & Jennifer Dy. *Explanations of Black-Box Models based on Directional Feature Interactions*. Accepted at ICLR 2022 as a spotlight presentation (~5% of submissions). [[Paper]](https://openreview.net/forum?id=45Mr7LeKR9) [[Code]](https://github.com/davinhill/BivariateShapley)
+Aria Masoomi, **Davin Hill**, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter J. Castaldi, Stratis Ioannidis, & Jennifer Dy. *Explanations of Black-Box Models based on Directional Feature Interactions*. Accepted at ICLR 2022 as a spotlight presentation (~5% of submissions). [[Paper]](https://openreview.net/forum?id=45Mr7LeKR9) [[Code]](https://github.com/davinhill/BivariateShapley) [[Poster]](https://drive.google.com/file/d/140B_Qp1nS3jXNHMlLmNu4PO-9IpioUvH/view?usp=sharing)
 
 
 
 &nbsp;
 
-**Davin Hill**, Max Torop, Aria Masoomi, Peter J. Castaldi, Michael H. Cho, Jennifer Dy, & Brian D. Hobbs. *Deep Learning Utilizing Discarded Spirometry Data to Improve Lung Function and Mortality Prediction in the UK Biobank*. Abstract. Accepted for oral presentation at ATS 2022 (~5% of submissions).
+**Davin Hill**, Max Torop, Aria Masoomi, Peter J. Castaldi, Michael H. Cho, Jennifer Dy, & Brian D. Hobbs. *Deep Learning Utilizing Discarded Spirometry Data to Improve Lung Function and Mortality Prediction in the UK Biobank*. Abstract. Accepted for oral presentation at ATS 2022 (~5% of submissions). [[Poster]](https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing)
 
 &nbsp;
 
