@@ -29,11 +29,16 @@ Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Michael H. Cho, Jennifer
 *ATS 2022 (Oral, ~5% of submissions)*  
 [[Poster]](https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing)
 
+**Inference of chronic obstructive pulmonary disease with deep learning on raw spirograms identifies new genetic loci and improves risk models**  
+Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R. McCaw, Davin Hill, Tae-Hwi Schwantes-An, Dongbing Lai, Andrew Carroll, Brian D. Hobbs, Michael H. Cho, Cory Y. McLean & Farhad Hormozdiari  
+*Nature Genetics 2023*  
+[[Paper]](https://www.nature.com/articles/s41588-023-01372-4)
+
 &nbsp;
 
 ### Preprints
 ---
-**Explanation Uncertainty with Decision Boundary Awareness**  
+**Boundary-Aware Uncertainty for Feature Attribution Explainers**  
 Davin Hill, Aria Masoomi, Sandesh Ghimire, Max Torop & Jennifer Dy  
 [[Paper]](https://arxiv.org/abs/2210.02419)
 
@@ -41,6 +46,10 @@ Davin Hill, Aria Masoomi, Sandesh Ghimire, Max Torop & Jennifer Dy
 Zulqarnain Khan, Aria Masoomi, Davin Hill & Jennifer Dy  
 [[Paper]](https://arxiv.org/abs/2206.12481)  
 
-**Leveraging deep-learning on raw spirograms to improve genetic understanding and risk scoring of COPD despite noisy labels**  
+**Geometry of Score Based Generative Models**  
+Sandesh Ghimire, Jinyang Liu, Armand Comas, Davin Hill, Aria Masoomi, Octavia Camps & Jennifer Dy  
+[[Paper]](https://arxiv.org/abs/2302.04411)  
+
+<!-- **Leveraging deep-learning on raw spirograms to improve genetic understanding and risk scoring of COPD despite noisy labels**  
 Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Tae-Hwi Schwantes-An, Dongbing Lai, Andrew Carroll, Brian D Hobbs, Michael H. Cho, Cory Y. McLean & Farhad Hormozdiari  
-[[Paper]](https://doi.org/10.1101/2022.09.12.22279863)
+[[Paper]](https://doi.org/10.1101/2022.09.12.22279863) -->
