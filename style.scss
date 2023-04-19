@@ -170,6 +170,8 @@ img {
 
 .site-avatar {
   float: left;
+  // vertical-align: middle;
+  margin-top: 7px; // controls spacing on top of image
   width: 70px;
   height: 70px;
   margin-right: 15px;
@@ -198,12 +200,18 @@ img {
 
 .site-name {
   margin: 0;
+  // margin-top:50px;
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+
+  @include mobile {
+    margin: 0 auto;
+    margin-top:20px; // controls the spacing between name and avatar picture when viewing on mobile
+  }
 }
 
 .site-description {
