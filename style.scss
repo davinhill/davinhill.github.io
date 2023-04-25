@@ -295,8 +295,9 @@ nav {
 .paper_thumbnail {
   float: left;
   margin-top: 2px; // controls spacing on top of image
-  // width: 210px;
-  width: 30%;
+  width: 210px;
+  height: auto;
+  // width: 30%;
   // height: 155px;
   margin-right: 30px;
   display: block;
@@ -305,7 +306,9 @@ nav {
     float: none;
     // horizontal-align: left;
     // position: relative;
-    width: 40%;
+    width: 210px;
+    height: auto;
+    // width: 40%;
     display: initial;
     margin: 0 auto;
     margin-top: 15px;
