@@ -40,7 +40,7 @@ Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Michael H. Cho, Jennifer
 
 <!-- &nbsp; -->
 
-<a href="https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing"><img align="left" src="/images/paper_thumbnails/natgen.png" class = 'paper_thumbnail'>
+<a href="https://www.nature.com/articles/s41588-023-01372-4"><img align="left" src="/images/paper_thumbnails/natgen.png" class = 'paper_thumbnail'>
 
 **Inference of chronic obstructive pulmonary disease with deep learning on raw spirograms identifies new genetic loci and improves risk models**  
 Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R. McCaw, Davin Hill, Tae-Hwi Schwantes-An, Dongbing Lai, Andrew Carroll, Brian D. Hobbs, Michael H. Cho, Cory Y. McLean & Farhad Hormozdiari  
