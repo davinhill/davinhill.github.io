@@ -298,13 +298,13 @@ nav {
   width: 210px;
   // height: 155px;
   margin-right: 30px;
-  // display: inline;
+  display: block;
 
   @include mobile {
     float: none;
     // horizontal-align: left;
     // position: relative;
-    // display: block;
+    display: initial;
     margin: 0 auto;
     margin-top: 15px;
     margin-bottom: 0px;
