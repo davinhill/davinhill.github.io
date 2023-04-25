@@ -19,9 +19,8 @@ I collaborate with the [Channing Division of Network Medicine](https://www.brigh
 ### Publications  
 ---
 <!-- * Aria Masoomi, **Davin Hill**, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter J. Castaldi, Stratis Ioannidis & Jennifer Dy. *Explanations of Black-Box Models based on Directional Feature Interactions*. ICLR 2022 (Spotlight, ~5% of submissions). [[Paper]](https://openreview.net/forum?id=45Mr7LeKR9) [[Poster]](https://drive.google.com/file/d/140B_Qp1nS3jXNHMlLmNu4PO-9IpioUvH/view?usp=sharing) [[Code]](https://github.com/davinhill/BivariateShapley)  -->
-<!-- <a href="https://openreview.net/forum?id=45Mr7LeKR9"><img align="left" src="/images/paper_icons/bivshap.png" class = "padding">  -->
+<a href="https://openreview.net/forum?id=45Mr7LeKR9"><img align="left" src="/images/paper_thumbnails/bivshap.png" class = "paper_thumbnail"> 
 
-![image](/images/paper_icons/bivshap.png){: height="155px" width="210px" style="float:left; padding-right:20px"}
 **Explanations of Black-Box Models based on Directional Feature Interactions**  
 Aria Masoomi, Davin Hill, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter J. Castaldi, Stratis Ioannidis & Jennifer Dy  
 *ICLR 2022 (Spotlight, ~5% of submissions)*  
@@ -30,11 +29,9 @@ Aria Masoomi, Davin Hill, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter
 &nbsp;
 
 <!-- &nbsp; -->
-<!-- <a href="https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing"><img align="left" src="/images/paper_icons/ats_2022.png" class = 'padding'> -->
-![image](/images/paper_icons/ats_2022.png){: height="155px" width="210px" style="float:left; padding-right:20px"}
+<a href="https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing"><img align="left" src="/images/paper_thumbnails/ats_2022.png" class = 'paper_thumbnail'>
+
 **Deep Learning Utilizing Discarded Spirometry Data to Improve Lung Function and Mortality Prediction in the UK Biobank**   
-<!-- <img align="right" src="/images/paper_icons/ats2_2022.png"  width="35%"> **Deep Learning Utilizing Discarded Spirometry Data to Improve Lung Function and Mortality Prediction in the UK Biobank**    -->
-<!-- <img align="right" src="/images/paper_icons/ats3_2022.png"  width="40%"> **Deep Learning Utilizing Discarded Spirometry Data to Improve Lung Function and Mortality Prediction in the UK Biobank**    -->
 Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Michael H. Cho, Jennifer Dy & Brian D. Hobbs  
 *ATS 2022 (Oral, ~5% of submissions)*  
 [[Poster]](https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing)
@@ -43,8 +40,7 @@ Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Michael H. Cho, Jennifer
 
 <!-- &nbsp; -->
 
-<!-- <a href="https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing"><img align="left" src="/images/paper_icons/natgen.png" class = 'padding'> -->
-![image](/images/paper_icons/natgen.png){: height="155px" width="210px" style="float:left; padding-right:20px"}
+<a href="https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing"><img align="left" src="/images/paper_thumbnails/natgen.png" class = 'paper_thumbnail'>
 
 **Inference of chronic obstructive pulmonary disease with deep learning on raw spirograms identifies new genetic loci and improves risk models**  
 Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R. McCaw, Davin Hill, Tae-Hwi Schwantes-An, Dongbing Lai, Andrew Carroll, Brian D. Hobbs, Michael H. Cho, Cory Y. McLean & Farhad Hormozdiari  
