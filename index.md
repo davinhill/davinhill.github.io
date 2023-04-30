@@ -67,7 +67,7 @@ Davin Hill, Aria Masoomi, Sandesh Ghimire, Max Torop & Jennifer Dy
 
 &nbsp;
 
-<a href="https://arxiv.org/abs/2210.02419"><img align="left" src="/images/paper_thumbnails/deep_learning_spirometry.png" class = 'paper_thumbnail'>
+<a href="https://www.medrxiv.org/content/10.1101/2023.04.28.23289178v1"><img align="left" src="/images/paper_thumbnails/deep_learning_spirometry.png" class = 'paper_thumbnail'>
 
 **Deep Learning Utilizing Suboptimal Spirometry Data to Improve Lung Function and Mortality Prediction in the UK Biobank**   
 Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Edwin K. Silverman, Sandeep Bodduluri, Surya P. Bhatt, Taedong Yun, Cory Y. McLean, Farhad Hormozdiari, Jennifer Dy, Michael H. Cho & Brian D. Hobbs  
