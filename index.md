@@ -6,7 +6,7 @@ I am a PhD candidate in the ECE department at Northeastern University and part o
 
 I collaborate with the [Channing Division of Network Medicine](https://www.brighamandwomens.org/research/departments/channing-division-of-network-medicine/overview) in applying machine learning methods to various challenges related to Chronic Obstructive Pulmonary Disease (COPD). [COPD](https://www.cdc.gov/copd/index.html) is a lung disease commonly associated with smoking and long-term exposure to lung irritants. We work with multiomics, spirography, and lung imaging to improve subtyping, disease progression, diagnosis, etc.
 
-Prior to Northeastern, I completed my MS in Statistics at the University of Illinois at Urbana-Champaign and my BS in Economics and Business Administration at UNC Chapel Hill. My previous industry experience includes an internship with [Wayfair](https://www.aboutwayfair.com/tag/data-science), as well as a number of analyst roles in the Oil & Gas, Wind, and Power Generation businesses of [General Electric](https://www.ge.com).
+Prior to Northeastern, I completed my MS in Statistics at the University of Illinois at Urbana-Champaign and my BS in Economics and Business Administration at UNC Chapel Hill. My previous industry experience includes internships with [Wayfair](https://www.aboutwayfair.com/tag/data-science) and Blue Cross Blue Shield ([BCBSNC](https://www.bluecrossnc.com)), as well as lead analyst roles in the Oil & Gas, Wind, and Power Generation businesses of [General Electric](https://www.ge.com).
 
 <!-- I studied economics and business administration for my BS at UNC Chapel Hill. -->
 <!-- My previous industry experience includes internships at Optum Labs (UnitedHealth Group) and Wayfair. -->
