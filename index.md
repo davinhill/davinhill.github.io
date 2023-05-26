@@ -77,7 +77,7 @@ Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Edwin K. Silverman, Sand
 
 &nbsp;
 
-&nbsp;
+<a href="https://arxiv.org/abs/2206.12481"><img align="left" src="/images/paper_thumbnails/lipschitz.png" class = 'paper_thumbnail'>
 
 **Analyzing the Effects of Classifier Lipschitzness on Explainers**  
 Zulqarnain Khan, Aria Masoomi, Davin Hill & Jennifer Dy  
@@ -85,9 +85,9 @@ Zulqarnain Khan, Aria Masoomi, Davin Hill & Jennifer Dy
 
 &nbsp;
 
-**Geometry of Score Based Generative Models**  
+<!-- **Geometry of Score Based Generative Models**  
 Sandesh Ghimire, Jinyang Liu, Armand Comas, Davin Hill, Aria Masoomi, Octavia Camps & Jennifer Dy  
-[[Preprint]](https://arxiv.org/abs/2302.04411)  
+[[Preprint]](https://arxiv.org/abs/2302.04411)   -->
 
 <!-- **Leveraging deep-learning on raw spirograms to improve genetic understanding and risk scoring of COPD despite noisy labels**  
 Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Tae-Hwi Schwantes-An, Dongbing Lai, Andrew Carroll, Brian D Hobbs, Michael H. Cho, Cory Y. McLean & Farhad Hormozdiari  
