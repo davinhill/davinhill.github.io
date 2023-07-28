@@ -79,8 +79,8 @@ Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Edwin K. Silverman, Sand
 
 <a href="https://arxiv.org/abs/2206.12481"><img align="left" src="/images/paper_thumbnails/lipschitz.png" class = 'paper_thumbnail'>
 
-**Analyzing the Effects of Classifier Lipschitzness on Explainers**  
-Zulqarnain Khan, Aria Masoomi, Davin Hill & Jennifer Dy  
+**Analyzing Explainer Robustness via Lipschitzness of Prediction Functions**  
+Zulqarnain Khan\*, Davin Hill\*, Aria Masoomi, Joshua Bone & Jennifer Dy  
 [[Preprint]](https://arxiv.org/abs/2206.12481)  
 
 &nbsp;
