@@ -74,7 +74,7 @@ Max Torop\*, Aria Masoomi\*, Davin Hill, Kivanc Kose, Stratis Ioannidis & Jennif
 
 &nbsp;
 
-<a href="https://drive.google.com/file/d/1BcwHKcp8k5f17ukmm_FcDCUXg0a-z0ZX/view?usp=share_link"><img align="left" src="/images/paper_thumbnails/ashg_2023.png" class = 'paper_thumbnail'>
+<a href="https://drive.google.com/file/d/1BcwHKcp8k5f17ukmm_FcDCUXg0a-z0ZX/view?usp=share_link"><img align="left" src="/images/paper_thumbnails/smoothhess.png" class = 'paper_thumbnail'>
 
 **Genome-wide association study of emphysema- and airway-predominant deep learning subtypes**  
 Davin Hill, Kangjin Kim, Matthew Moll, Max Torop, Aria Masoomi, Sandeep Bodduluri, Peter J. Castaldi, Brian D. Hobbs, Jennifer Dy, Surya P. Bhatt & Michael H. Cho  
