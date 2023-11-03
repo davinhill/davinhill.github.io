@@ -62,7 +62,7 @@ Sandesh Ghimire, Jinyang Liu, Armand Comas, Davin Hill, Aria Masoomi, Octavia Ca
 Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Tae-Hwi Schwantes-An, Dongbing Lai, Andrew Carroll, Brian D Hobbs, Michael H. Cho, Cory Y. McLean & Farhad Hormozdiari  
 [[Paper]](https://doi.org/10.1101/2022.09.12.22279863) -->
 
-### Publications  
+### Selected Publications  
 ---
 
 <a href="http://arxiv.org/abs/2311.00858"><img align="left" src="/images/paper_thumbnails/smoothhess.png" class = 'paper_thumbnail'>
