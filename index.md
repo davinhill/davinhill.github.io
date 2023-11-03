@@ -65,12 +65,12 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Ta
 ### Publications  
 ---
 
-<a href="https://github.com/MaxTorop/SmoothHess"><img align="left" src="/images/paper_thumbnails/smoothhess.png" class = 'paper_thumbnail'>
+<a href="http://arxiv.org/abs/2311.00858"><img align="left" src="/images/paper_thumbnails/smoothhess.png" class = 'paper_thumbnail'>
 
 **SmoothHess: ReLU Network Feature Interactions via Stein’s Lemma**  
 Max Torop\*, Aria Masoomi\*, Davin Hill, Kivanc Kose, Stratis Ioannidis & Jennifer Dy  
 *NeurIPS 2023*  
-<!-- [[Paper]](https://www.nature.com/articles/s41588-023-01372-4) [[Code]](https://github.com/MaxTorop/SmoothHess) -->
+[[Paper]](http://arxiv.org/abs/2311.00858) [[Code]](https://github.com/MaxTorop/SmoothHess)
 
 &nbsp;
 
