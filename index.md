@@ -22,24 +22,8 @@ Prior to Northeastern, I completed my MS in Statistics at the University of Illi
 
 &nbsp;
 
-### Working Projects
+<!-- ### Working Projects
 ---
-<a href="https://arxiv.org/abs/2210.02419"><img align="left" src="/images/paper_thumbnails/gpec2.png" class = 'paper_thumbnail'>
-
-**Boundary-Aware Uncertainty for Feature Attribution Explainers**  
-Davin Hill, Aria Masoomi, Sandesh Ghimire, Max Torop & Jennifer Dy  
-[[Preprint]](https://arxiv.org/abs/2210.02419)
-
-
-&nbsp;
-
-<a href="https://arxiv.org/abs/2206.12481"><img align="left" src="/images/paper_thumbnails/lipschitz.png" class = 'paper_thumbnail'>
-
-**Analyzing Explainer Robustness via Lipschitzness of Prediction Functions**  
-Zulqarnain Khan\*, Davin Hill\*, Aria Masoomi, Joshua Bone & Jennifer Dy  
-[[Preprint]](https://arxiv.org/abs/2206.12481)  
-
-&nbsp;
 
 <a href="https://www.medrxiv.org/content/10.1101/2023.04.28.23289178v1"><img align="left" src="/images/paper_thumbnails/deep_learning_spirometry.png" class = 'paper_thumbnail'>
 
@@ -49,10 +33,10 @@ Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Edwin K. Silverman, Sand
 
 <!-- [[Code]](https://github.com/davinhill/Spiro-CLF) -->
 
-&nbsp;
+<!-- &nbsp;
 
 
-&nbsp;
+&nbsp; -->
 
 <!-- **Geometry of Score Based Generative Models**  
 Sandesh Ghimire, Jinyang Liu, Armand Comas, Davin Hill, Aria Masoomi, Octavia Camps & Jennifer Dy  
@@ -64,6 +48,25 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Ta
 
 ### Selected Publications  
 ---
+
+<a href="https://arxiv.org/abs/2210.02419"><img align="left" src="/images/paper_thumbnails/gpec2.png" class = 'paper_thumbnail'>
+
+**Boundary-Aware Uncertainty for Feature Attribution Explainers**  
+Davin Hill, Aria Masoomi, Sandesh Ghimire, Max Torop & Jennifer Dy  
+*AISTATS 2024*  
+[[Preprint]](https://arxiv.org/abs/2210.02419)
+
+
+&nbsp;
+
+<a href="https://arxiv.org/abs/2206.12481"><img align="left" src="/images/paper_thumbnails/lipschitz.png" class = 'paper_thumbnail'>
+
+**Analyzing Explainer Robustness via Lipschitzness of Prediction Functions**  
+Zulqarnain Khan\*, Davin Hill\*, Aria Masoomi, Josh Bone & Jennifer Dy  
+*AISTATS 2024*  
+[[Preprint]](https://arxiv.org/abs/2206.12481)  
+
+&nbsp;
 
 <a href="http://arxiv.org/abs/2311.00858"><img align="left" src="/images/paper_thumbnails/smoothhess.png" class = 'paper_thumbnail'>
 
