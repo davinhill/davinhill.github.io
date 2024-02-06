@@ -2,9 +2,12 @@
 layout: page
 ---
 
-I am a PhD candidate in the ECE department at Northeastern University and part of Dr. [Jennifer Dy](https://coe.northeastern.edu/people/dy-jennifer/)'s Machine Learning Lab at the [SPIRAL](https://web.northeastern.edu/spiral/) research center. I'm broadly interested in improving transparency in black-box prediction models, specifically in relation to interpretability and uncertainty quantification.
+I am a PhD candidate in the ECE department at Northeastern University and part of Dr. [Jennifer Dy](https://mllabneu.github.io)'s Machine Learning Lab at the [SPIRAL](https://web.northeastern.edu/spiral/) research center. I'm broadly interested in improving transparency in black-box prediction models, specifically in relation to interpretability and uncertainty quantification.
 
-<!-- I collaborate with the [Channing Division of Network Medicine](https://www.brighamandwomens.org/research/departments/channing-division-of-network-medicine/overview) at [Brigham & Women's Hospital](https://www.brighamandwomens.org) in applying machine learning methods to various challenges related to Chronic Obstructive Pulmonary Disease (COPD). [COPD](https://www.cdc.gov/copd/index.html) is a lung disease commonly associated with smoking and long-term exposure to lung irritants. We work with multiomics, spirography, and lung imaging to improve subtyping, disease progression, diagnosis, etc. -->
+<!--
+https://mllabneu.github.io
+https://coe.northeastern.edu/people/dy-jennifer/
+I collaborate with the [Channing Division of Network Medicine](https://www.brighamandwomens.org/research/departments/channing-division-of-network-medicine/overview) at [Brigham & Women's Hospital](https://www.brighamandwomens.org) in applying machine learning methods to various challenges related to Chronic Obstructive Pulmonary Disease (COPD). [COPD](https://www.cdc.gov/copd/index.html) is a lung disease commonly associated with smoking and long-term exposure to lung irritants. We work with multiomics, spirography, and lung imaging to improve subtyping, disease progression, diagnosis, etc. -->
 I collaborate with Dr. [Michael H. Cho](https://acil.bwh.harvard.edu/michael-cho.html)'s [research lab](https://cho-lab.bwh.harvard.edu) at [Brigham & Women's Hospital](https://www.brighamandwomens.org) in applying machine learning methods to various challenges related to Chronic Obstructive Pulmonary Disease (COPD). [COPD](https://www.cdc.gov/copd/index.html) is a lung disease commonly associated with smoking and long-term exposure to lung irritants. We work with multiomics, spirography, and lung imaging to improve subtyping, disease progression, diagnosis, etc.
 
 Prior to Northeastern, I completed my MS in Statistics at the University of Illinois at Urbana-Champaign and my BS in Economics and Business Administration at UNC Chapel Hill. My industry experience includes internships with [Optum AI](https://www.optumlabs.com), [Wayfair](https://www.aboutwayfair.com/tag/data-science) and [Blue Cross Blue Shield](https://www.bluecrossnc.com), as well as lead analyst roles in the Oil & Gas, Wind, and Power Generation businesses of [General Electric](https://www.ge.com).
@@ -21,6 +24,22 @@ Prior to Northeastern, I completed my MS in Statistics at the University of Illi
 * Representation Learning
 
 &nbsp;
+
+### Ongoing Projects
+---
+
+Interpretability (Northeastern)
+
+COPD - Spirometry Representation Learning (BWH, Google Health, HMS)
+
+COPD - Genetics (BWH, HMS)
+
+EAI, USBank
+
+
+&nbsp;
+
+
 
 <!-- ### Working Projects
 ---
@@ -48,7 +67,7 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Ta
 
 ### Selected Publications  
 ---
-*\* indicates equal contribution*   
+*\*equal contribution*   
 
 <a href="https://arxiv.org/abs/2210.02419"><img align="left" src="/images/paper_thumbnails/gpec2.png" class = 'paper_thumbnail'>
 
@@ -114,7 +133,25 @@ Aria Masoomi, Davin Hill, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter
 **Deep Learning Utilizing Discarded Spirometry Data to Improve Lung Function and Mortality Prediction in the UK Biobank**   
 Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Michael H. Cho, Jennifer Dy & Brian D. Hobbs  
 *ATS 2022 (Oral, ~5% of submissions)*  
-[[Poster]](https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing)
+[[Poster]](https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing)  
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### Working Papers
+---
+
+<a href="https://www.medrxiv.org/content/10.1101/2023.04.28.23289178v1"><img align="left" src="/images/paper_thumbnails/deep_learning_spirometry.png" class = 'paper_thumbnail'>
+
+**Deep Learning Utilizing Suboptimal Spirometry Data to Improve Lung Function and Mortality Prediction in the UK Biobank**   
+Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Edwin K. Silverman, Sandeep Bodduluri, Surya P. Bhatt, Taedong Yun, Cory Y. McLean, Farhad Hormozdiari, Jennifer Dy\*, Michael H. Cho\* & Brian D. Hobbs\*  
+[[Preprint]](https://www.medrxiv.org/content/10.1101/2023.04.28.23289178v1)
+[[Code]](https://github.com/davinhill/Spiro-CLF)
+
+
+&nbsp;
 &nbsp;
 &nbsp;
