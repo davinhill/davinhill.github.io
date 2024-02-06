@@ -25,7 +25,7 @@ Prior to Northeastern, I completed my MS in Statistics at the University of Illi
 
 &nbsp;
 
-### Ongoing Projects
+<!-- ### Ongoing Projects
 ---
 
 Interpretability (Northeastern)
@@ -37,7 +37,7 @@ COPD - Genetics (BWH, HMS)
 EAI, USBank
 
 
-&nbsp;
+&nbsp; -->
 
 
 
