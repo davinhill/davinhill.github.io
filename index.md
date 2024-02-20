@@ -88,12 +88,12 @@ Zulqarnain Khan\*, Davin Hill\*, Aria Masoomi, Josh Bone & Jennifer Dy
 
 &nbsp;
 
-<a href="http://arxiv.org/abs/2311.00858"><img align="left" src="/images/paper_thumbnails/smoothhess.png" class = 'paper_thumbnail'>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9ef5e965720193681fc8d16372ac4717-Abstract-Conference.html"><img align="left" src="/images/paper_thumbnails/smoothhess.png" class = 'paper_thumbnail'>
 
 **SmoothHess: ReLU Network Feature Interactions via Stein’s Lemma**  
 Max Torop\*, Aria Masoomi\*, Davin Hill, Kivanc Kose, Stratis Ioannidis & Jennifer Dy  
 *NeurIPS 2023*  
-[[Paper]](http://arxiv.org/abs/2311.00858) [[Code]](https://github.com/MaxTorop/SmoothHess)
+[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9ef5e965720193681fc8d16372ac4717-Abstract-Conference.html) [[Code]](https://github.com/MaxTorop/SmoothHess)
 
 &nbsp;
 
