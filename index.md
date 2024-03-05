@@ -72,7 +72,7 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Ta
 <a href="https://arxiv.org/abs/2210.02419"><img align="left" src="/images/paper_thumbnails/gpec2.png" class = 'paper_thumbnail'>
 
 **Boundary-Aware Uncertainty for Feature Attribution Explainers**  
-Davin Hill, Aria Masoomi, Sandesh Ghimire, Max Torop & Jennifer Dy  
+Davin Hill, Aria Masoomi, Max Torop, Sandesh Ghimire & Jennifer Dy  
 *AISTATS 2024*  
 [[Preprint]](https://arxiv.org/abs/2210.02419)
 
