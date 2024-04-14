@@ -74,7 +74,12 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Ta
 **Boundary-Aware Uncertainty for Feature Attribution Explainers**  
 Davin Hill, Aria Masoomi, Max Torop, Sandesh Ghimire & Jennifer Dy  
 *AISTATS 2024*  
-[[Preprint]](https://arxiv.org/abs/2210.02419)
+<a href="https://arxiv.org/abs/2210.02419" target="_blank">[Paper]</a> 
+<a href="https://drive.google.com/file/d/1heCKUitA9mcXFK61565-a46xcKoZA8nh/view?usp=share_link" target="_blank">[Poster]</a> 
+<a href="https://github.com/davinhill/GPEC" target="_blank">[Code]</a>   
+<!-- <a href="https://gpec-demo.onrender.com" target="_blank">[Visualizer]</a>  -->
+
+<!-- [[Visualizer]](https://gpec-demo.onrender.com)  -->
 
 
 &nbsp;
@@ -84,7 +89,9 @@ Davin Hill, Aria Masoomi, Max Torop, Sandesh Ghimire & Jennifer Dy
 **Analyzing Explainer Robustness via Lipschitzness of Prediction Functions**  
 Zulqarnain Khan\*, Davin Hill\*, Aria Masoomi, Josh Bone & Jennifer Dy  
 *AISTATS 2024*  
-[[Preprint]](https://arxiv.org/abs/2206.12481)  
+<a href="https://arxiv.org/abs/2206.12481" target="_blank">[Preprint]</a> 
+<a href="https://github.com/zqkhan/Analyzing_Explainers_Code" target="_blank">[Code]</a>   
+
 
 &nbsp;
 
@@ -93,7 +100,8 @@ Zulqarnain Khan\*, Davin Hill\*, Aria Masoomi, Josh Bone & Jennifer Dy
 **SmoothHess: ReLU Network Feature Interactions via Stein’s Lemma**  
 Max Torop\*, Aria Masoomi\*, Davin Hill, Kivanc Kose, Stratis Ioannidis & Jennifer Dy  
 *NeurIPS 2023*  
-[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9ef5e965720193681fc8d16372ac4717-Abstract-Conference.html) [[Code]](https://github.com/MaxTorop/SmoothHess)
+<a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9ef5e965720193681fc8d16372ac4717-Abstract-Conference.html" target="_blank">[Paper]</a> 
+<a href="https://github.com/MaxTorop/SmoothHess" target="_blank">[Code]</a>   
 
 &nbsp;
 
@@ -102,7 +110,7 @@ Max Torop\*, Aria Masoomi\*, Davin Hill, Kivanc Kose, Stratis Ioannidis & Jennif
 **Genome-wide association study of emphysema- and airway-predominant deep learning subtypes**  
 Davin Hill, Kangjin Kim, Matthew Moll, Max Torop, Aria Masoomi, Sandeep Bodduluri, Peter J. Castaldi, Brian D. Hobbs, Jennifer Dy, Surya P. Bhatt & Michael H. Cho  
 *ASHG 2023*  
-[[Poster]](https://drive.google.com/file/d/1BcwHKcp8k5f17ukmm_FcDCUXg0a-z0ZX/view?usp=share_link)
+<a href="https://drive.google.com/file/d/1BcwHKcp8k5f17ukmm_FcDCUXg0a-z0ZX/view?usp=share_link" target="_blank">[Poster]</a>   
 
 
 &nbsp;
@@ -113,7 +121,8 @@ Davin Hill, Kangjin Kim, Matthew Moll, Max Torop, Aria Masoomi, Sandeep Boddulur
 **Inference of chronic obstructive pulmonary disease with deep learning on raw spirograms identifies new genetic loci and improves risk models**  
 Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R. McCaw, Davin Hill, Tae-Hwi Schwantes-An, Dongbing Lai, Andrew Carroll, Brian D. Hobbs, Michael H. Cho, Cory Y. McLean & Farhad Hormozdiari  
 *Nature Genetics 2023*  
-[[Paper]](https://www.nature.com/articles/s41588-023-01372-4) [[Code]](https://github.com/Google-Health/genomics-research/tree/main/ml-based-copd)
+<a href="https://www.nature.com/articles/s41588-023-01372-4" target="_blank">[Paper]</a> 
+<a href="https://github.com/Google-Health/genomics-research/tree/main/ml-based-copd" target="_blank">[Code]</a>   
 
 &nbsp;
 
@@ -123,7 +132,9 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R. McCaw, Davin Hill, T
 **Explanations of Black-Box Models based on Directional Feature Interactions**  
 Aria Masoomi, Davin Hill, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter J. Castaldi, Stratis Ioannidis & Jennifer Dy  
 *ICLR 2022 (Spotlight, ~5% of submissions)*  
-[[Paper]](https://openreview.net/forum?id=45Mr7LeKR9) [[Poster]](https://drive.google.com/file/d/140B_Qp1nS3jXNHMlLmNu4PO-9IpioUvH/view?usp=sharing) [[Code]](https://github.com/davinhill/BivariateShapley) 
+<a href="https://openreview.net/forum?id=45Mr7LeKR9" target="_blank">[Paper]</a> 
+<a href="https://drive.google.com/file/d/140B_Qp1nS3jXNHMlLmNu4PO-9IpioUvH/view?usp=sharing" target="_blank">[Poster]</a> 
+<a href="https://github.com/davinhill/BivariateShapley" target="_blank">[Code]</a>  
 
 &nbsp;
 
@@ -133,7 +144,7 @@ Aria Masoomi, Davin Hill, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter
 **Deep Learning Utilizing Discarded Spirometry Data to Improve Lung Function and Mortality Prediction in the UK Biobank**   
 Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Michael H. Cho, Jennifer Dy & Brian D. Hobbs  
 *ATS 2022 (Oral, ~5% of submissions)*  
-[[Poster]](https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing)  
+<a href="https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing" target="_blank">[Poster]</a>   
 
 &nbsp;
 
