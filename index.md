@@ -74,7 +74,7 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Ta
 **Boundary-Aware Uncertainty for Feature Attribution Explainers**  
 Davin Hill, Aria Masoomi, Max Torop, Sandesh Ghimire & Jennifer Dy  
 *AISTATS 2024*  
-<a href="https://arxiv.org/abs/2210.02419" target="_blank">[Paper]</a> 
+<a href="https://proceedings.mlr.press/v238/hill24a.html" target="_blank">[Paper]</a> 
 <a href="https://drive.google.com/file/d/1heCKUitA9mcXFK61565-a46xcKoZA8nh/view?usp=share_link" target="_blank">[Poster]</a> 
 <a href="https://github.com/davinhill/GPEC" target="_blank">[Code]</a>   
 <!-- <a href="https://gpec-demo.onrender.com" target="_blank">[Visualizer]</a>  -->
@@ -89,7 +89,7 @@ Davin Hill, Aria Masoomi, Max Torop, Sandesh Ghimire & Jennifer Dy
 **Analyzing Explainer Robustness via Lipschitzness of Prediction Functions**  
 Zulqarnain Khan\*, Davin Hill\*, Aria Masoomi, Josh Bone & Jennifer Dy  
 *AISTATS 2024*  
-<a href="https://arxiv.org/abs/2206.12481" target="_blank">[Preprint]</a> 
+<a href="https://proceedings.mlr.press/v238/q-khan24a.html" target="_blank">[Paper]</a> 
 <a href="https://drive.google.com/file/d/1dirab4taOnF5kuTu-T2Mf1wVdBvmIK9a/view?usp=share_link" target="_blank">[Poster]</a> 
 <a href="https://github.com/zqkhan/Analyzing_Explainers_Code" target="_blank">[Code]</a>   
 
