@@ -96,6 +96,16 @@ Zulqarnain Khan\*, Davin Hill\*, Aria Masoomi, Josh Bone & Jennifer Dy
 
 &nbsp;
 
+<a href="https://www.nature.com/articles/s41588-024-01831-6"><img align="left" src="/images/paper_thumbnails/natgen_regle.png" class = 'paper_thumbnail'>
+
+**Unsupervised representation learning on high-dimensional clinical data improves genomic discovery and prediction**  
+Taedong Yun, Justin Cosentino, Babak Behsaz, Zachary R. McCaw, Davin Hill, Robert Luben, Dongbin Lai, John Bates, Howard Yang, Tae-Hwi Schwantes-An, Yuchen Zhou, Anthony P. Khawaja, Andrew Carroll, Brian D. Hobbs, Michael H. Cho, Cory Y. McLean & Farhad Hormozdiari  
+*Nature Genetics 2024*  
+<a href="https://www.nature.com/articles/s41588-024-01831-6" target="_blank">[Paper]</a> 
+<a href="https://github.com/Google-Health/genomics-research/tree/main/mregle" target="_blank">[Code]</a>   
+
+&nbsp;
+
 <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9ef5e965720193681fc8d16372ac4717-Abstract-Conference.html"><img align="left" src="/images/paper_thumbnails/smoothhess.png" class = 'paper_thumbnail'>
 
 **SmoothHess: ReLU Network Feature Interactions via Stein’s Lemma**  
