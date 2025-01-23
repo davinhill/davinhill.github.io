@@ -8,7 +8,7 @@ I am a PhD candidate in the ECE department at Northeastern University and part o
 https://mllabneu.github.io
 https://coe.northeastern.edu/people/dy-jennifer/
 I collaborate with the [Channing Division of Network Medicine](https://www.brighamandwomens.org/research/departments/channing-division-of-network-medicine/overview) at [Brigham & Women's Hospital](https://www.brighamandwomens.org) in applying machine learning methods to various challenges related to Chronic Obstructive Pulmonary Disease (COPD). [COPD](https://www.cdc.gov/copd/index.html) is a lung disease commonly associated with smoking and long-term exposure to lung irritants. We work with multiomics, spirography, and lung imaging to improve subtyping, disease progression, diagnosis, etc. -->
-I collaborate with Dr. [Michael H. Cho](https://acil.bwh.harvard.edu/michael-cho.html)'s [research lab](https://cho-lab.bwh.harvard.edu) at [Brigham & Women's Hospital](https://www.brighamandwomens.org) in applying machine learning methods to various challenges related to Chronic Obstructive Pulmonary Disease (COPD). [COPD](https://www.cdc.gov/copd/index.html) is a lung disease commonly associated with smoking and long-term exposure to lung irritants. We work with multiomics, spirography, and lung imaging to improve subtyping, disease progression, diagnosis, etc.
+I collaborate with Dr. [Michael H. Cho](https://acil.bwh.harvard.edu/michael-cho.html)'s [research lab](https://cho-lab.bwh.harvard.edu) at [Mass General Brigham](https://www.massgeneralbrigham.org/en) in applying machine learning methods to various challenges related to Chronic Obstructive Pulmonary Disease (COPD). [COPD](https://www.cdc.gov/copd/index.html) is a lung disease commonly associated with smoking and long-term exposure to lung irritants. We work with multiomics, spirography, and lung imaging to improve subtyping, disease progression, diagnosis, etc.
 
 Prior to Northeastern, I completed my MS in Statistics at the University of Illinois at Urbana-Champaign and my BS in Economics and Business Administration at UNC Chapel Hill. My industry experience includes internships with [Optum AI](https://www.optumlabs.com), [Wayfair](https://www.aboutwayfair.com/tag/data-science) and [Blue Cross Blue Shield](https://www.bluecrossnc.com), as well as lead analyst roles in the Oil & Gas, Wind, and Power Generation businesses of [General Electric](https://www.ge.com).
 
@@ -68,6 +68,37 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Ta
 ### Selected Publications  
 ---
 *\*equal contribution*   
+
+<a href="https://arxiv.org/abs/2411.01126"><img align="left" src="/images/paper_thumbnails/globalness.png" class = 'paper_thumbnail'>
+
+**Axiomatic Explainer Globalness via Optimal Transport**  
+Davin Hill\*, Josh Bone\*, Aria Masoomi, Max Torop & Jennifer Dy  
+*AISTATS 2025*  
+<a href="https://arxiv.org/abs/2411.01126" target="_blank">[Preprint]</a> 
+<!-- <a href="https://drive.google.com/file/d/1heCKUitA9mcXFK61565-a46xcKoZA8nh/view?usp=share_link" target="_blank">[Poster]</a>  -->
+<!-- <a href="https://github.com/davinhill/GPEC" target="_blank">[Code]</a>    -->
+<!-- <a href="https://gpec-demo.onrender.com" target="_blank">[Visualizer]</a>  -->
+
+<!-- [[Visualizer]](https://gpec-demo.onrender.com)  -->
+
+&nbsp;
+
+&nbsp;
+
+<a href="https://openreview.net/forum?id=6N5OM5Duuj"><img align="left" src="/images/paper_thumbnails/star.png" class = 'paper_thumbnail'>
+
+**STAR: Stability-Inducing Weight Perturbation for Continual Learning**  
+Masih Eskandar, Tooba Imtiaz, Davin Hill, Zifeng Wang & Jennifer Dy  
+*ICLR 2025*  
+<a href="https://openreview.net/forum?id=6N5OM5Duuj" target="_blank">[Preprint]</a>   
+<!-- <a href="https://drive.google.com/file/d/1heCKUitA9mcXFK61565-a46xcKoZA8nh/view?usp=share_link" target="_blank">[Poster]</a>  -->
+<!-- <a href="https://github.com/davinhill/GPEC" target="_blank">[Code]</a>    -->
+<!-- <a href="https://gpec-demo.onrender.com" target="_blank">[Visualizer]</a>  -->
+<!-- [[Visualizer]](https://gpec-demo.onrender.com)  -->
+
+&nbsp;
+
+&nbsp;
 
 <a href="https://arxiv.org/abs/2210.02419"><img align="left" src="/images/paper_thumbnails/gpec2.png" class = 'paper_thumbnail'>
 

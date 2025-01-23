@@ -85,3 +85,23 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# seo
+title: Davin Hill
+url: https://davinhill.me
+twitter:
+  username: davinhill_
+  card: summary
+
+social:
+  name: Davin Hill
+  links:
+    - https://twitter.com/davinhill_
+    - https://x.com/davinhill_
+    - https://www.linkedin.com/in/davinhill/
+    - https://github.com/davinhill
