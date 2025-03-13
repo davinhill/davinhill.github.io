@@ -72,11 +72,14 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Ta
 <a href="https://arxiv.org/abs/2411.01126"><img align="left" src="/images/paper_thumbnails/globalness.png" class = 'paper_thumbnail'>
 
 **Axiomatic Explainer Globalness via Optimal Transport**  
-Davin Hill\*, Josh Bone\*, Aria Masoomi, Max Torop & Jennifer Dy  
-*AISTATS 2025*  
-<a href="https://arxiv.org/abs/2411.01126" target="_blank">[Preprint]</a> 
+<!-- <a href="https://aistats.org/aistats2025/">*Artificial Intelligence and Statistics (AISTATS), 2025*</a>   -->
+<!-- *Artificial Intelligence and Statistics (AISTATS), 2025*   -->
+AISTATS 2025  
+<a href="https://www.davinhill.me">Davin Hill</a>\*, Josh Bone\*, Aria Masoomi, <a href="https://maxtorop.github.io">Max Torop</a> & <a href="https://mllabneu.github.io">Jennifer Dy</a>  
+<span style="color:gray"> We define a complexity measure for explainers, globalness, which enables deeper understanding of the distribution of explanations produced by feature attribution and feature selection methods for a given dataset. We establish the axiomatic properties that any such measure should possess and prove that our proposed measure, Wasserstein Globalness, meets these criteria.</span>  
+<a href="https://arxiv.org/abs/2411.01126" target="_blank">[Paper]</a> 
 <!-- <a href="https://drive.google.com/file/d/1heCKUitA9mcXFK61565-a46xcKoZA8nh/view?usp=share_link" target="_blank">[Poster]</a>  -->
-<!-- <a href="https://github.com/davinhill/GPEC" target="_blank">[Code]</a>    -->
+<a href="https://github.com/davinhill/WassersteinGlobalness" target="_blank">[Code]</a>   
 <!-- <a href="https://gpec-demo.onrender.com" target="_blank">[Visualizer]</a>  -->
 
 <!-- [[Visualizer]](https://gpec-demo.onrender.com)  -->
@@ -90,11 +93,13 @@ Davin Hill\*, Josh Bone\*, Aria Masoomi, Max Torop & Jennifer Dy
 **STAR: Stability-Inducing Weight Perturbation for Continual Learning**  
 Masih Eskandar, Tooba Imtiaz, Davin Hill, Zifeng Wang & Jennifer Dy  
 *ICLR 2025*  
-<a href="https://openreview.net/forum?id=6N5OM5Duuj" target="_blank">[Preprint]</a>   
+<a href="https://openreview.net/forum?id=6N5OM5Duuj" target="_blank">[Paper]</a>   
 <!-- <a href="https://drive.google.com/file/d/1heCKUitA9mcXFK61565-a46xcKoZA8nh/view?usp=share_link" target="_blank">[Poster]</a>  -->
-<!-- <a href="https://github.com/davinhill/GPEC" target="_blank">[Code]</a>    -->
+<a href="https://github.com/Gnomy17/STAR_CL" target="_blank">[Code]</a>   
 <!-- <a href="https://gpec-demo.onrender.com" target="_blank">[Visualizer]</a>  -->
 <!-- [[Visualizer]](https://gpec-demo.onrender.com)  -->
+
+&nbsp;
 
 &nbsp;
 
@@ -103,8 +108,9 @@ Masih Eskandar, Tooba Imtiaz, Davin Hill, Zifeng Wang & Jennifer Dy
 <a href="https://arxiv.org/abs/2210.02419"><img align="left" src="/images/paper_thumbnails/gpec2.png" class = 'paper_thumbnail'>
 
 **Boundary-Aware Uncertainty for Feature Attribution Explainers**  
-Davin Hill, Aria Masoomi, Max Torop, Sandesh Ghimire & Jennifer Dy  
-*AISTATS 2024*  
+AISTATS 2024  
+<a href="https://www.davinhill.me">Davin Hill</a>, Aria Masoomi, <a href="https://maxtorop.github.io">Max Torop</a>, <a href="https://sandeshgh.com">Sandesh Ghimire</a> & <a href="https://mllabneu.github.io">Jennifer Dy</a>  
+<span style="color:gray">We propose the Gaussian Process Explanation unCertainty (GPEC) framework, which generates a unified uncertainty estimate combining decision boundary-aware uncertainty with explanation function approximation uncertainty. We introduce a novel geodesic-based kernel, which captures the complexity of the target black-box decision boundary.</span>  
 <a href="https://proceedings.mlr.press/v238/hill24a.html" target="_blank">[Paper]</a> 
 <a href="https://drive.google.com/file/d/1heCKUitA9mcXFK61565-a46xcKoZA8nh/view?usp=share_link" target="_blank">[Poster]</a> 
 <a href="https://github.com/davinhill/GPEC" target="_blank">[Code]</a>   
@@ -112,6 +118,8 @@ Davin Hill, Aria Masoomi, Max Torop, Sandesh Ghimire & Jennifer Dy
 
 <!-- [[Visualizer]](https://gpec-demo.onrender.com)  -->
 
+
+&nbsp;
 
 &nbsp;
 
