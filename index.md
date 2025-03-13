@@ -74,12 +74,9 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Ta
 **Axiomatic Explainer Globalness via Optimal Transport**  
 Davin Hill\*, Josh Bone\*, Aria Masoomi, Max Torop & Jennifer Dy  
 *AISTATS 2025*  
-<a href="https://arxiv.org/abs/2411.01126" target="_blank">[Preprint]</a> 
+<a href="https://arxiv.org/abs/2411.01126" target="_blank">[Paper]</a> 
+<a href="https://github.com/davinhill/WassersteinGlobalness" target="_blank">[Code]</a>   
 <!-- <a href="https://drive.google.com/file/d/1heCKUitA9mcXFK61565-a46xcKoZA8nh/view?usp=share_link" target="_blank">[Poster]</a>  -->
-<!-- <a href="https://github.com/davinhill/GPEC" target="_blank">[Code]</a>    -->
-<!-- <a href="https://gpec-demo.onrender.com" target="_blank">[Visualizer]</a>  -->
-
-<!-- [[Visualizer]](https://gpec-demo.onrender.com)  -->
 
 &nbsp;
 
@@ -90,11 +87,8 @@ Davin Hill\*, Josh Bone\*, Aria Masoomi, Max Torop & Jennifer Dy
 **STAR: Stability-Inducing Weight Perturbation for Continual Learning**  
 Masih Eskandar, Tooba Imtiaz, Davin Hill, Zifeng Wang & Jennifer Dy  
 *ICLR 2025*  
-<a href="https://openreview.net/forum?id=6N5OM5Duuj" target="_blank">[Preprint]</a>   
-<!-- <a href="https://drive.google.com/file/d/1heCKUitA9mcXFK61565-a46xcKoZA8nh/view?usp=share_link" target="_blank">[Poster]</a>  -->
-<!-- <a href="https://github.com/davinhill/GPEC" target="_blank">[Code]</a>    -->
-<!-- <a href="https://gpec-demo.onrender.com" target="_blank">[Visualizer]</a>  -->
-<!-- [[Visualizer]](https://gpec-demo.onrender.com)  -->
+<a href="https://openreview.net/forum?id=6N5OM5Duuj" target="_blank">[Paper]</a>
+<a href="https://github.com/Gnomy17/STAR_CL" target="_blank">[Code]</a>   
 
 &nbsp;
 
