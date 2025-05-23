@@ -18,10 +18,12 @@ Prior to Northeastern, I completed my MS in Statistics at the University of Illi
 &nbsp;
 
 ### Research Interests
-* Black-Box interpretability, especially feature attribution and feature selection methods.
-* Uncertainty Quantification in Neural Networks
+<!-- * Black-Box interpretability, especially feature attribution and feature selection methods. -->
+* Responsible AI, especially related to feature attribution and uncertainty quantification.
+* Representation Learning, especially self-supervised approaches.
+* Probabilistic Models
+<!-- * Uncertainty Quantification in Neural Networks -->
 * Geometric Deep Learning
-* Representation Learning
 
 &nbsp;
 
@@ -69,54 +71,78 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Ta
 ---
 *\*equal contribution*   
 
-<a href="https://arxiv.org/abs/2411.01126"><img align="left" src="/images/paper_thumbnails/globalness.png" class = 'paper_thumbnail'>
-
-**Axiomatic Explainer Globalness via Optimal Transport**  
-Davin Hill\*, Josh Bone\*, Aria Masoomi, Max Torop & Jennifer Dy  
-*AISTATS 2025*  
-<a href="https://arxiv.org/abs/2411.01126" target="_blank">[Paper]</a> 
-<a href="https://github.com/davinhill/WassersteinGlobalness" target="_blank">[Code]</a>   
-<!-- <a href="https://drive.google.com/file/d/1heCKUitA9mcXFK61565-a46xcKoZA8nh/view?usp=share_link" target="_blank">[Poster]</a>  -->
-
-&nbsp;
-
-&nbsp;
-
-<a href="https://openreview.net/forum?id=6N5OM5Duuj"><img align="left" src="/images/paper_thumbnails/star.png" class = 'paper_thumbnail'>
-
-**STAR: Stability-Inducing Weight Perturbation for Continual Learning**  
-Masih Eskandar, Tooba Imtiaz, Davin Hill, Zifeng Wang & Jennifer Dy  
-*ICLR 2025*  
-<a href="https://openreview.net/forum?id=6N5OM5Duuj" target="_blank">[Paper]</a>
-<a href="https://github.com/Gnomy17/STAR_CL" target="_blank">[Code]</a>   
+<div class="two-column">
+  <div class="column image">
+    <img src="/images/paper_thumbnails/globalness.png" alt="Wasserstein Globalness">
+  </div>
+  <div class="column text">
+    <strong>Axiomatic Explainer Globalness via Optimal Transport</strong><br>
+    <!-- <a href="https://aistats.org/aistats2025/"><em>Artificial Intelligence and Statistics (AISTATS), 2025</em></a><br> -->
+    <!-- <a href="https://www.davinhill.me">Davin Hill</a>*, <a href="https://www.linkedin.com/in/j-bone">Josh Bone</a>*, <a href="https://www.linkedin.com/in/aria-masoomi-779a02232">Aria Masoomi</a>, <a href="https://maxtorop.github.io">Max Torop</a> & <a href="https://mllabneu.github.io">Jennifer Dy</a><br> -->
+    <!-- <span style="color:gray">We define a complexity measure for explainers, globalness, which enables deeper understanding of the distribution of explanations produced by feature attribution and feature selection methods for a given dataset. We establish the axiomatic properties that any such measure should possess and prove that our proposed measure, Wasserstein Globalness, meets these criteria.</span><br> -->
+    Davin Hill*, Josh Bone*, Aria Masoomi, Max Torop & Jennifer Dy  <br>
+    <em>Artificial Intelligence and Statistics (AISTATS), 2025</em><br>
+    <a href="https://arxiv.org/abs/2411.01126" target="_blank">[Paper]</a> 
+    <a href="https://drive.google.com/file/d/1NgHlIASVhsUyHR8ZH_oSbVxOt53oLzYG/view?usp=sharing" target="_blank">[Poster]</a> 
+    <a href="https://github.com/davinhill/WassersteinGlobalness" target="_blank">[Code]</a>   
+  </div>
+</div>
 
 &nbsp;
 
+<div class="two-column">
+  <div class="column image">
+    <img src="/images/paper_thumbnails/star.png" alt="STAR">
+  </div>
+  <div class="column text">
+    <strong>STAR: Stability-Inducing Weight Perturbation for Continual Learning</strong><br>
+    <!-- <a href="https://meskandars.github.io">Masih Eskandar</a>, <a href="https://toobaimt.github.io">Tooba Imtiaz</a>, <a href="https://www.davinhill.me">Davin Hill</a>, <a href="https://kingspencer.github.io">Zifeng Wang</a> & <a href="https://mllabneu.github.io">Jennifer Dy</a><br> -->
+    <!-- <span style="color:gray">Continual learning enables models to learn sequentially but suffers from catastrophic forgetting, where knowledge of past tasks is lost. We propose STAR, a novel loss function that leverages worst-case parameter perturbation to stabilize learning and reduce forgetting, improving the performance of existing rehearsal-based methods.</span><br> -->
+    Masih Eskandar, Tooba Imtiaz, Davin Hill, ZIfeng Wang & Jennifer Dy  <br>
+    <em>International Conference on Learning Representations (ICLR), 2025</em><br>
+    <a href="https://openreview.net/forum?id=6N5OM5Duuj" target="_blank">[Paper]</a>
+    <a href="https://github.com/Gnomy17/STAR_CL" target="_blank">[Code]</a>   
+  </div>
+</div>
+
 &nbsp;
 
-<a href="https://arxiv.org/abs/2210.02419"><img align="left" src="/images/paper_thumbnails/gpec2.png" class = 'paper_thumbnail'>
-
-**Boundary-Aware Uncertainty for Feature Attribution Explainers**  
-Davin Hill, Aria Masoomi, Max Torop, Sandesh Ghimire & Jennifer Dy  
-*AISTATS 2024*  
-<a href="https://proceedings.mlr.press/v238/hill24a.html" target="_blank">[Paper]</a> 
-<a href="https://drive.google.com/file/d/1heCKUitA9mcXFK61565-a46xcKoZA8nh/view?usp=share_link" target="_blank">[Poster]</a> 
-<a href="https://github.com/davinhill/GPEC" target="_blank">[Code]</a>   
-<!-- <a href="https://gpec-demo.onrender.com" target="_blank">[Visualizer]</a>  -->
-
-<!-- [[Visualizer]](https://gpec-demo.onrender.com)  -->
+<div class="two-column">
+  <div class="column image">
+    <img src="/images/paper_thumbnails/gpec2.png" alt="Gaussian Process Explanation Uncertainty">
+  </div>
+  <div class="column text">
+    <strong>Boundary-Aware Uncertainty for Feature Attribution Explainers</strong><br>
+    <!-- <a href="https://aistats.org/aistats2025/"><em>Artificial Intelligence and Statistics (AISTATS), 2025</em></a><br> -->
+    <!-- <a href="https://www.davinhill.me">Davin Hill</a>, <a href="https://www.linkedin.com/in/aria-masoomi-779a02232">Aria Masoomi</a>, <a href="https://maxtorop.github.io">Max Torop</a>, <a href="https://sandeshgh.com">Sandesh Ghimire</a> & <a href="https://mllabneu.github.io">Jennifer Dy</a><br> -->
+    <!-- <span style="color:gray">We propose the Gaussian Process Explanation unCertainty (GPEC) framework, which generates a unified uncertainty estimate combining decision boundary-aware uncertainty with explanation function approximation uncertainty. We introduce a novel geodesic-based kernel, which captures the complexity of the target black-box decision boundary.</span><br> -->
+    Davin Hill, Aria Masoomi, Max Torop, Sandesh Ghimire & Jennifer Dy <br>
+    <em>Artificial Intelligence and Statistics (AISTATS), 2024</em><br>
+    <a href="https://proceedings.mlr.press/v238/hill24a.html" target="_blank">[Paper]</a> 
+    <a href="https://drive.google.com/file/d/1heCKUitA9mcXFK61565-a46xcKoZA8nh/view?usp=share_link" target="_blank">[Poster]</a> 
+    <a href="https://github.com/davinhill/GPEC" target="_blank">[Code]</a>   
+  </div>
+</div>
 
 
 &nbsp;
 
-<a href="https://arxiv.org/abs/2206.12481"><img align="left" src="/images/paper_thumbnails/lipschitz.png" class = 'paper_thumbnail'>
-
-**Analyzing Explainer Robustness via Lipschitzness of Prediction Functions**  
-Zulqarnain Khan\*, Davin Hill\*, Aria Masoomi, Josh Bone & Jennifer Dy  
-*AISTATS 2024*  
-<a href="https://proceedings.mlr.press/v238/q-khan24a.html" target="_blank">[Paper]</a> 
-<a href="https://drive.google.com/file/d/1dirab4taOnF5kuTu-T2Mf1wVdBvmIK9a/view?usp=share_link" target="_blank">[Poster]</a> 
-<a href="https://github.com/zqkhan/Analyzing_Explainers_Code" target="_blank">[Code]</a>   
+<div class="two-column">
+  <div class="column image">
+    <img src="/images/paper_thumbnails/lipschitz.png" alt="Explainer Astuteness">
+  </div>
+  <div class="column text">
+    <strong>Analyzing Explainer Robustness via Lipschitzness of Prediction Functions</strong><br>
+    <!-- <a href="https://aistats.org/aistats2025/"><em>Artificial Intelligence and Statistics (AISTATS), 2025</em></a><br> -->
+    <!-- <a href="linkedin.com/in/zqkhan">Zulqarnain Khan</a>*, <a href="https://www.davinhill.me">Davin Hill</a>*, <a href="https://www.linkedin.com/in/aria-masoomi-779a02232">Aria Masoomi</a>, <a href="https://www.linkedin.com/in/j-bone">Josh Bone</a> & <a href="https://mllabneu.github.io">Jennifer Dy</a><br> -->
+    <!-- <span style="color:gray">As machine learning models become more complex, explainers are used to provide interpretability, but their robustness is often overlooked. This paper introduces explainer astuteness, a formal notion of robustness ensuring similar explanations for similar inputs, and establishes theoretical guarantees linking it to the predictor’s local smoothness.</span><br> -->
+    Zulqarnain Khan*, Davin Hill*, Aria Masoomi, Josh Bone & Jennifer Dy  <br>
+    <em>Artificial Intelligence and Statistics (AISTATS), 2024</em><br>
+    <a href="https://arxiv.org/abs/2206.12481" target="_blank">[Paper]</a> 
+    <a href="https://drive.google.com/file/d/1dirab4taOnF5kuTu-T2Mf1wVdBvmIK9a/view?usp=share_link" target="_blank">[Poster]</a> 
+    <a href="https://github.com/zqkhan/Analyzing_Explainers_Code" target="_blank">[Code]</a>   
+  </div>
+</div>
 
 
 &nbsp;
@@ -131,13 +157,22 @@ Taedong Yun, Justin Cosentino, Babak Behsaz, Zachary R. McCaw, Davin Hill, Rober
 
 &nbsp;
 
-<a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9ef5e965720193681fc8d16372ac4717-Abstract-Conference.html"><img align="left" src="/images/paper_thumbnails/smoothhess.png" class = 'paper_thumbnail'>
 
-**SmoothHess: ReLU Network Feature Interactions via Stein’s Lemma**  
-Max Torop\*, Aria Masoomi\*, Davin Hill, Kivanc Kose, Stratis Ioannidis & Jennifer Dy  
-*NeurIPS 2023*  
-<a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9ef5e965720193681fc8d16372ac4717-Abstract-Conference.html" target="_blank">[Paper]</a> 
-<a href="https://github.com/MaxTorop/SmoothHess" target="_blank">[Code]</a>   
+<div class="two-column">
+  <div class="column image">
+    <img src="/images/paper_thumbnails/smoothhess.png" alt="SmoothHess">
+  </div>
+  <div class="column text">
+    <strong>SmoothHess: ReLU Network Feature Interactions via Stein’s Lemma</strong><br>
+    <!-- <a href="https://maxtorop.github.io">Max Torop</a>*, <a href="https://www.linkedin.com/in/aria-masoomi-779a02232">Aria Masoomi</a>*, <a href="https://www.davinhill.me">Davin Hill</a>, <a href="linkedin.com/in/kivanc-kose-8aa383a1">Kivanc Kose</a>, <a href="https://ece.northeastern.edu/fac-ece/ioannidis/">Stratis Ioannidis</a> & <a href="https://mllabneu.github.io">Jennifer Dy</a><br> -->
+    <!-- <span style="color:gray">We propose SmoothHess, a method that estimates second-order feature interactions using Stein’s Lemma by convolving the network with a Gaussian, enabling efficient interaction analysis without modifying the model. SmoothHess is applied post-hoc, allows explicit control over smoothing, and demonstrates superior performance on benchmark and medical datasets.</span><br> -->
+    Max Torop*, Aria Masoomi*, Davin Hill, Kivanc Kose, Stratis Ioannidis & Jennifer Dy <br>
+    <em>Neural Information Processing Systems (NeurIPS), 2023</em><br>
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9ef5e965720193681fc8d16372ac4717-Abstract-Conference.html" target="_blank">[Paper]</a> 
+    <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70998.png?t=1702167195.843354" target="_blank">[Poster]</a> 
+    <a href="https://github.com/MaxTorop/SmoothHess" target="_blank">[Code]</a>   
+  </div>
+</div>
 
 &nbsp;
 
@@ -145,7 +180,7 @@ Max Torop\*, Aria Masoomi\*, Davin Hill, Kivanc Kose, Stratis Ioannidis & Jennif
 
 **Genome-wide association study of emphysema- and airway-predominant deep learning subtypes**  
 Davin Hill, Kangjin Kim, Matthew Moll, Max Torop, Aria Masoomi, Sandeep Bodduluri, Peter J. Castaldi, Brian D. Hobbs, Jennifer Dy, Surya P. Bhatt & Michael H. Cho  
-*ASHG 2023*  
+*American Society of Human Genetics (ASHG) 2023*  
 <a href="https://drive.google.com/file/d/1BcwHKcp8k5f17ukmm_FcDCUXg0a-z0ZX/view?usp=share_link" target="_blank">[Poster]</a>   
 
 
@@ -162,26 +197,38 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R. McCaw, Davin Hill, T
 
 &nbsp;
 
-<!-- * Aria Masoomi, **Davin Hill**, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter J. Castaldi, Stratis Ioannidis & Jennifer Dy. *Explanations of Black-Box Models based on Directional Feature Interactions*. ICLR 2022 (Spotlight, ~5% of submissions). [[Paper]](https://openreview.net/forum?id=45Mr7LeKR9) [[Poster]](https://drive.google.com/file/d/140B_Qp1nS3jXNHMlLmNu4PO-9IpioUvH/view?usp=sharing) [[Code]](https://github.com/davinhill/BivariateShapley)  -->
-<a href="https://openreview.net/forum?id=45Mr7LeKR9"><img align="left" src="/images/paper_thumbnails/bivshap.png" class = "paper_thumbnail"> 
+&nbsp;
 
-**Explanations of Black-Box Models based on Directional Feature Interactions**  
-Aria Masoomi, Davin Hill, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter J. Castaldi, Stratis Ioannidis & Jennifer Dy  
-*ICLR 2022 (Spotlight, ~5% of submissions)*  
-<a href="https://openreview.net/forum?id=45Mr7LeKR9" target="_blank">[Paper]</a> 
-<a href="https://drive.google.com/file/d/140B_Qp1nS3jXNHMlLmNu4PO-9IpioUvH/view?usp=sharing" target="_blank">[Poster]</a> 
-<a href="https://github.com/davinhill/BivariateShapley" target="_blank">[Code]</a>  
+<div class="two-column">
+  <div class="column image">
+    <img src="/images/paper_thumbnails/bivshap.png" alt="Bivariate Shapley">
+  </div>
+  <div class="column text">
+    <strong>Explanations of Black-Box Models based on Directional Feature Interactions</strong><br>
+    <!-- <a href="https://www.linkedin.com/in/aria-masoomi-779a02232">Aria Masoomi</a>, <a href="https://www.davinhill.me">Davin Hill</a>, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter J. Castaldi, <a href="https://ece.northeastern.edu/fac-ece/ioannidis/">Stratis Ioannidis</a> & <a href="https://mllabneu.github.io">Jennifer Dy</a><br> -->
+    <!-- <span style="color:gray">We extend univariate explanation methods to capture directional feature interactions in black-box models, representing them using directed and undirected graphs. This approach enhances interpretability by identifying mutually and directionally redundant feature groups, while also highlighting the most influential features, outperforming state-of-the-art methods across multiple datasets.</span><br> -->
+    Aria Masoomi, Davin Hill, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter J. Castaldi, Stratis Ioannidis & Jennifer Dy <br>
+    <em>International Conference on Learning Representations (ICLR), 2022 (Spotlight!)</em><br>
+    <a href="https://openreview.net/forum?id=45Mr7LeKR9" target="_blank">[Paper]</a> 
+    <a href="https://drive.google.com/file/d/140B_Qp1nS3jXNHMlLmNu4PO-9IpioUvH/view?usp=sharing" target="_blank">[Poster]</a> 
+    <a href="https://github.com/davinhill/BivariateShapley" target="_blank">[Code]</a>  
+  </div>
+</div>
+
 
 &nbsp;
 
-<!-- &nbsp; -->
-<a href="https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing"><img align="left" src="/images/paper_thumbnails/ats_2022.png" class = 'paper_thumbnail'>
-
-**Deep Learning Utilizing Discarded Spirometry Data to Improve Lung Function and Mortality Prediction in the UK Biobank**   
-Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Michael H. Cho, Jennifer Dy & Brian D. Hobbs  
-*ATS 2022 (Oral, ~5% of submissions)*  
-<a href="https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing" target="_blank">[Poster]</a>   
-
+<div class="two-column">
+  <div class="column image">
+    <img src="/images/paper_thumbnails/ats_2022.png" alt="Spiro-CLF">
+  </div>
+  <div class="column text">
+    <strong>Deep Learning Utilizing Discarded Spirometry Data to Improve Lung Function and Mortality Prediction in the UK Biobank</strong><br>
+  Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Michael H. Cho, Jennifer Dy & Brian D. Hobbs  <br>
+    <em>American Thoracic Society, 2022 (Oral!)</em><br>
+    <a href="https://drive.google.com/file/d/1fslmZekHVpF7Ait4uHsN_GlFC8pN9zk-/view?usp=sharing" target="_blank">[Poster]</a> 
+  </div>
+</div>
 &nbsp;
 
 <!-- &nbsp;
