@@ -18,10 +18,12 @@ Prior to Northeastern, I completed my MS in Statistics at the University of Illi
 &nbsp;
 
 ### Research Interests
-* Black-Box interpretability, especially feature attribution and feature selection methods.
-* Uncertainty Quantification in Neural Networks
+<!-- * Black-Box interpretability, especially feature attribution and feature selection methods. -->
+* Responsible AI, especially related to feature attribution and uncertainty quantification.
+* Representation Learning, especially self-supervised approaches.
+* Probabilistic Models
+<!-- * Uncertainty Quantification in Neural Networks -->
 * Geometric Deep Learning
-* Representation Learning
 
 &nbsp;
 
