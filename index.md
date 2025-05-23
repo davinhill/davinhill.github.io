@@ -77,8 +77,8 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Ta
 Davin Hill\*, Josh Bone\*, Aria Masoomi, Max Torop & Jennifer Dy  
 *AISTATS 2025*  
 <a href="https://arxiv.org/abs/2411.01126" target="_blank">[Paper]</a> 
+<a href="https://drive.google.com/file/d/1NgHlIASVhsUyHR8ZH_oSbVxOt53oLzYG/view?usp=sharing" target="_blank">[Poster]</a> 
 <a href="https://github.com/davinhill/WassersteinGlobalness" target="_blank">[Code]</a>   
-<!-- <a href="https://drive.google.com/file/d/1heCKUitA9mcXFK61565-a46xcKoZA8nh/view?usp=share_link" target="_blank">[Poster]</a>  -->
 
 &nbsp;
 
@@ -139,6 +139,7 @@ Taedong Yun, Justin Cosentino, Babak Behsaz, Zachary R. McCaw, Davin Hill, Rober
 Max Torop\*, Aria Masoomi\*, Davin Hill, Kivanc Kose, Stratis Ioannidis & Jennifer Dy  
 *NeurIPS 2023*  
 <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9ef5e965720193681fc8d16372ac4717-Abstract-Conference.html" target="_blank">[Paper]</a> 
+<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70998.png?t=1702167195.843354" target="_blank">[Poster]</a> 
 <a href="https://github.com/MaxTorop/SmoothHess" target="_blank">[Code]</a>   
 
 &nbsp;
