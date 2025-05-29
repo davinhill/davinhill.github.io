@@ -76,7 +76,7 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Ta
 **Axiomatic Explainer Globalness via Optimal Transport**  
 Davin Hill\*, Josh Bone\*, Aria Masoomi, Max Torop & Jennifer Dy  
 *AISTATS 2025*  
-<a href="https://arxiv.org/abs/2411.01126" target="_blank">[Paper]</a> 
+<a href="https://proceedings.mlr.press/v258/hill25a.html" target="_blank">[Paper]</a> 
 <a href="https://drive.google.com/file/d/1NgHlIASVhsUyHR8ZH_oSbVxOt53oLzYG/view?usp=sharing" target="_blank">[Poster]</a> 
 <a href="https://github.com/davinhill/WassersteinGlobalness" target="_blank">[Code]</a>   
 
