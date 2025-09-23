@@ -42,22 +42,30 @@ EAI, USBank
 &nbsp; -->
 
 
-
-<!-- ### Working Projects
+<!-- 
+### Working Projects
 ---
+<a href="https://arxiv.org/abs/2507.11855"><img align="left" src="/images/paper_thumbnails/ordshap.png" class = 'paper_thumbnail'>
 
-<a href="https://www.medrxiv.org/content/10.1101/2023.04.28.23289178v1"><img align="left" src="/images/paper_thumbnails/deep_learning_spirometry.png" class = 'paper_thumbnail'>
+**OrdShap: Feature Position Importance for Sequential Black-Box Models**   
+Davin Hill, Brian L. Hill, Aria Masoomi, Vijay S. Nori, Robert E. Tillman, Jennifer Dy  
+[[Preprint]](https://arxiv.org/abs/2507.11855)
 
-**Deep Learning Utilizing Suboptimal Spirometry Data to Improve Lung Function and Mortality Prediction in the UK Biobank**   
+
+&nbsp;
+
+&nbsp;
+
+
+<a href="https://assets-eu.researchsquare.com/files/rs-6296752/v1_covered_3bd3a3b3-d656-4c3a-917b-e8258a4472ff.pdf?c=1751265551"><img align="left" src="/images/paper_thumbnails/deep_learning_spirometry.png" class = 'paper_thumbnail'>
+
+**Deep Learning of Suboptimal Spirometry to Predict Respiratory Outcomes and Mortality**   
 Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Edwin K. Silverman, Sandeep Bodduluri, Surya P. Bhatt, Taedong Yun, Cory Y. McLean, Farhad Hormozdiari, Jennifer Dy\*, Michael H. Cho\* & Brian D. Hobbs\*  
-[[Preprint]](https://www.medrxiv.org/content/10.1101/2023.04.28.23289178v1)
-
+[[Preprint]](https://assets-eu.researchsquare.com/files/rs-6296752/v1_covered_3bd3a3b3-d656-4c3a-917b-e8258a4472ff.pdf?c=1751265551)
 <!-- [[Code]](https://github.com/davinhill/Spiro-CLF) -->
 
-<!-- &nbsp;
+<!-- &nbsp; -->
 
-
-&nbsp; -->
 
 <!-- **Geometry of Score Based Generative Models**  
 Sandesh Ghimire, Jinyang Liu, Armand Comas, Davin Hill, Aria Masoomi, Octavia Camps & Jennifer Dy  
@@ -70,6 +78,19 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Ta
 ### Selected Publications  
 ---
 *\*equal contribution*   
+
+<a href="https://arxiv.org/abs/2507.11855"><img align="left" src="/images/paper_thumbnails/ordshap2.png" class = 'paper_thumbnail'>
+
+**OrdShap: Feature Position Importance for Sequential Black-Box Models**  
+Davin Hill, Brian L. Hill, Aria Masoomi, Vijay S. Nori, Robert E. Tillman & Jennifer Dy  
+*NeurIPS 2025*  
+<a href="https://arxiv.org/abs/2507.11855" target="_blank">[Preprint]</a> 
+<!-- <a href="https://drive.google.com/file/d/1NgHlIASVhsUyHR8ZH_oSbVxOt53oLzYG/view?usp=sharing" target="_blank">[Poster]</a>  -->
+<!-- <a href="https://github.com/davinhill/WassersteinGlobalness" target="_blank">[Code]</a>    -->
+
+&nbsp;
+
+&nbsp;
 
 <a href="https://arxiv.org/abs/2411.01126"><img align="left" src="/images/paper_thumbnails/globalness.png" class = 'paper_thumbnail'>
 
