@@ -6,10 +6,11 @@
 name: Davin Hill
 
 # Short bio or description (displayed in the header)
-description: PhD Candidate at Northeastern University
+description: Sr Research Scientist @ Optum AI
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://davinhill.github.io/profile2.jpeg
+avatar: https://davinhill.github.io/profile2_sdr.jpeg
+# avatar: https://davinhill.github.io/profile2.jpeg
 # avatar: https://davinhill.github.io/profile.JPG
 
 #https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -20,7 +21,7 @@ avatar: https://davinhill.github.io/profile2.jpeg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: dhill@ece.neu.edu
+  email: davin_hill@optum.com
   facebook:
   flickr:
   github: davinhill

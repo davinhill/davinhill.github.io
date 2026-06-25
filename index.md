@@ -2,13 +2,15 @@
 layout: page
 ---
 
-I am a PhD candidate in the ECE department at Northeastern University and part of Dr. [Jennifer Dy](https://mllabneu.github.io)'s Machine Learning Lab at the [SPIRAL](https://web.northeastern.edu/spiral/) research center. I'm broadly interested in improving transparency in black-box prediction models, specifically in relation to interpretability and uncertainty quantification.
+I am a Senior Research Scientist at [Optum AI](https://www.optumlabs.com), where I develop robust, reliable, and transparent models for healthcare, with a current focus on multi-agent systems.
+
+This work builds on my research background in trustworthy machine learning. I completed my PhD in the ECE department at Northeastern University as part of Dr. [Jennifer Dy](https://mllabneu.github.io)'s Machine Learning Lab at the [SPIRAL](https://web.northeastern.edu/spiral/) research center, where I focused on improving transparency in black-box prediction models, specifically in relation to interpretability and uncertainty quantification.
 
 <!--
 https://mllabneu.github.io
 https://coe.northeastern.edu/people/dy-jennifer/
 I collaborate with the [Channing Division of Network Medicine](https://www.brighamandwomens.org/research/departments/channing-division-of-network-medicine/overview) at [Brigham & Women's Hospital](https://www.brighamandwomens.org) in applying machine learning methods to various challenges related to Chronic Obstructive Pulmonary Disease (COPD). [COPD](https://www.cdc.gov/copd/index.html) is a lung disease commonly associated with smoking and long-term exposure to lung irritants. We work with multiomics, spirography, and lung imaging to improve subtyping, disease progression, diagnosis, etc. -->
-I collaborate with Dr. [Michael H. Cho](https://acil.bwh.harvard.edu/michael-cho.html)'s [research lab](https://cho-lab.bwh.harvard.edu) at [Mass General Brigham](https://www.massgeneralbrigham.org/en) in applying machine learning methods to various challenges related to Chronic Obstructive Pulmonary Disease (COPD). [COPD](https://www.cdc.gov/copd/index.html) is a lung disease commonly associated with smoking and long-term exposure to lung irritants. We work with multiomics, spirography, and lung imaging to improve subtyping, disease progression, diagnosis, etc.
+During my PhD, I collaborated with Dr. [Michael H. Cho](https://acil.bwh.harvard.edu/michael-cho.html)'s [research lab](https://cho-lab.bwh.harvard.edu) at [Mass General Brigham](https://www.massgeneralbrigham.org/en) in applying machine learning methods to various challenges related to Chronic Obstructive Pulmonary Disease (COPD). [COPD](https://www.cdc.gov/copd/index.html) is a lung disease commonly associated with smoking and long-term exposure to lung irritants. We worked with multiomics, spirography, and lung imaging to improve subtyping, disease progression, diagnosis, etc.
 
 Prior to Northeastern, I completed my MS in Statistics at the University of Illinois at Urbana-Champaign and my BS in Economics and Business Administration at UNC Chapel Hill. My industry experience includes internships with [Optum AI](https://www.optumlabs.com), [Wayfair](https://www.aboutwayfair.com/tag/data-science) and [Blue Cross Blue Shield](https://www.bluecrossnc.com), as well as lead analyst roles in the Oil & Gas, Wind, and Power Generation businesses of [General Electric](https://www.ge.com).
 
@@ -19,11 +21,12 @@ Prior to Northeastern, I completed my MS in Statistics at the University of Illi
 
 ### Research Interests
 <!-- * Black-Box interpretability, especially feature attribution and feature selection methods. -->
+* Multi-Agent Systems and Reinforcement Learning
 * Responsible AI, especially related to feature attribution and uncertainty quantification.
 * Representation Learning, especially self-supervised approaches.
 * Probabilistic Models
 <!-- * Uncertainty Quantification in Neural Networks -->
-* Geometric Deep Learning
+<!-- * Geometric Deep Learning -->
 
 &nbsp;
 
@@ -79,16 +82,24 @@ Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R McCaw, Davin Hill, Ta
 ---
 *\*equal contribution*   
 
-<a href="https://arxiv.org/abs/2507.11855"><img align="left" src="/images/paper_thumbnails/ordshap2.png" class = 'paper_thumbnail'>
+<a href="https://openreview.net/forum?id=JrUKqD2fQ1"><img align="left" src="/images/paper_thumbnails/mcr.png" class = 'paper_thumbnail'>
+
+**Feature Importance via Sets of Locally Performant Linear Models**  
+Fatemeh Tohidian, Davin Hill, Aria Masoomi, Peter J. Castaldi & Jennifer Dy  
+*AISTATS 2026*  
+<a href="https://openreview.net/forum?id=JrUKqD2fQ1" target="_blank">[Paper]</a> 
+<a href="https://github.com/Fatemeh-Tohidian/local_mcr" target="_blank">[Code]</a>   
+
+&nbsp;
+
+<a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/b28ae1166e1035c26b89d20f0286c9eb-Abstract-Conference.html"><img align="left" src="/images/paper_thumbnails/ordshap2.png" class = 'paper_thumbnail'>
 
 **OrdShap: Feature Position Importance for Sequential Black-Box Models**  
 Davin Hill, Brian L. Hill, Aria Masoomi, Vijay S. Nori, Robert E. Tillman & Jennifer Dy  
 *NeurIPS 2025*  
-<a href="https://arxiv.org/abs/2507.11855" target="_blank">[Preprint]</a> 
-<!-- <a href="https://drive.google.com/file/d/1NgHlIASVhsUyHR8ZH_oSbVxOt53oLzYG/view?usp=sharing" target="_blank">[Poster]</a>  -->
-<!-- <a href="https://github.com/davinhill/WassersteinGlobalness" target="_blank">[Code]</a>    -->
-
-&nbsp;
+<a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/b28ae1166e1035c26b89d20f0286c9eb-Abstract-Conference.html" target="_blank">[Paper]</a> 
+<a href="https://drive.google.com/file/d/1nLoYaUBlUFOGhxeFWPbg_ZCH8QNOU11h/view?usp=share_link" target="_blank">[Poster]</a> 
+<a href="https://github.com/davinhill/ordshap" target="_blank">[Code]</a>   
 
 &nbsp;
 
