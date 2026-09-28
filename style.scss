@@ -25,8 +25,6 @@ body {
 
 .container {
   margin: 0 auto;
-  // width: 100%;
-  // max-width: 740px;
   max-width: 1000px;
   width: 80%;
   padding: 0 10px;
@@ -67,6 +65,7 @@ h2 {
 h3 {
   font-size: 18px;
   line-height: 0px;
+  margin-top: 54px;
 }
 
 h4 {
@@ -121,16 +120,6 @@ img {
   max-width: 100%;
 }
 
-// Fixes images in popup boxes from Google Translate
-.gmnoprint img {
-  max-width: none;
-}
-
-.date {
-  font-style: italic;
-  color: $gray;
-}
-
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
@@ -176,7 +165,6 @@ img {
 
 .site-avatar {
   float: left;
-  // vertical-align: middle;
   margin-top: 7px; // controls spacing on top of image
   width: 70px;
   height: 70px;
@@ -206,7 +194,6 @@ img {
 
 .site-name {
   margin: 0;
-  // margin-top:50px;
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
@@ -232,7 +219,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 23px;
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -257,40 +244,6 @@ nav {
   }
 }
 
-//
-// .main
-//
-
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
-}
-
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-
-.post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 18px;
-    font-style: italic;
-  }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
-}
-
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
@@ -303,32 +256,27 @@ nav {
   margin-top: 2px; // controls spacing on top of image
   width: 210px;
   height: auto;
-  // width: 30%;
-  // height: 155px;
   margin-right: 30px;
   display: block;
 
   @include mobile {
     float: none;
-    // horizontal-align: left;
-    // position: relative;
-    width: 210px;
-    height: auto;
-    // width: 40%;
     display: initial;
     margin: 0 auto;
     margin-top: 15px;
     margin-bottom: 0px;
   }
-
-  // img {
-  //   border-radius: 5px;
-  // }
 }
-// .paper_thumbnail {
-//   width:  32%;
-//   padding: 5px 30px 0px 5px; // top right bottom left
-// }
+
+// Each publication contains its floated thumbnail, and its text stays in a column beside it
+.publication {
+  display: flow-root;
+  padding-top: 36px;
+}
+
+.publication-info {
+  display: flow-root;
+}
 
 footer {
   padding: 20px 0;

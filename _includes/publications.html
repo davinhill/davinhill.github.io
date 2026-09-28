@@ -1,0 +1,15 @@
+<div class="publications">
+{% for pub in site.data.publications %}
+  <div class="publication">
+    <a href="{{ pub.paper | default: pub.poster }}"><img src="{{ site.baseurl }}/images/paper_thumbnails/{{ pub.thumbnail }}" alt="{{ pub.title }}" class="paper_thumbnail" loading="lazy"></a>
+    <div class="publication-info">
+      <strong>{{ pub.title }}</strong><br>
+      {{ pub.authors }}<br>
+      <em>{{ pub.venue }}</em><br>
+      {% if pub.paper %}<a href="{{ pub.paper }}" target="_blank">[Paper]</a>{% endif %}
+      {% if pub.poster %}<a href="{{ pub.poster }}" target="_blank">[Poster]</a>{% endif %}
+      {% if pub.code %}<a href="{{ pub.code }}" target="_blank">[Code]</a>{% endif %}
+    </div>
+  </div>
+{% endfor %}
+</div>

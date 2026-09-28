@@ -1,0 +1,93 @@
+# Selected publications, listed on the homepage in this order.
+#
+# thumbnail: file name in images/paper_thumbnails/ (resize to 420px wide)
+# paper, poster, code: optional links; the thumbnail links to the paper, or the poster if there is no paper
+# Put new posters in files/posters/ and link them as /files/posters/<name>.pdf
+
+- title: "Feature Importance via Sets of Locally Performant Linear Models"
+  authors: Fatemeh Tohidian, Davin Hill, Aria Masoomi, Peter J. Castaldi & Jennifer Dy
+  venue: AISTATS 2026
+  thumbnail: mcr.png
+  paper: https://openreview.net/forum?id=JrUKqD2fQ1
+  code: https://github.com/Fatemeh-Tohidian/local_mcr
+
+- title: "OrdShap: Feature Position Importance for Sequential Black-Box Models"
+  authors: Davin Hill, Brian L. Hill, Aria Masoomi, Vijay S. Nori, Robert E. Tillman & Jennifer Dy
+  venue: NeurIPS 2025
+  thumbnail: ordshap2.png
+  paper: https://proceedings.neurips.cc/paper_files/paper/2025/hash/b28ae1166e1035c26b89d20f0286c9eb-Abstract-Conference.html
+  poster: /files/posters/ordshap_neurips2025.pdf
+  code: https://github.com/davinhill/ordshap
+
+- title: "Axiomatic Explainer Globalness via Optimal Transport"
+  authors: Davin Hill*, Josh Bone*, Aria Masoomi, Max Torop & Jennifer Dy
+  venue: AISTATS 2025
+  thumbnail: globalness.png
+  paper: https://proceedings.mlr.press/v258/hill25a.html
+  poster: /files/posters/globalness_aistats2025.pdf
+  code: https://github.com/davinhill/WassersteinGlobalness
+
+- title: "STAR: Stability-Inducing Weight Perturbation for Continual Learning"
+  authors: Masih Eskandar, Tooba Imtiaz, Davin Hill, Zifeng Wang & Jennifer Dy
+  venue: ICLR 2025
+  thumbnail: star.png
+  paper: https://openreview.net/forum?id=6N5OM5Duuj
+  code: https://github.com/Gnomy17/STAR_CL
+
+- title: "Boundary-Aware Uncertainty for Feature Attribution Explainers"
+  authors: Davin Hill, Aria Masoomi, Max Torop, Sandesh Ghimire & Jennifer Dy
+  venue: AISTATS 2024
+  thumbnail: gpec2.png
+  paper: https://proceedings.mlr.press/v238/hill24a.html
+  poster: /files/posters/gpec_aistats2024.pdf
+  code: https://github.com/davinhill/GPEC
+
+- title: "Analyzing Explainer Robustness via Probabilistic Lipschitzness of Prediction Functions"
+  authors: Zulqarnain Khan*, Davin Hill*, Aria Masoomi, Josh Bone & Jennifer Dy
+  venue: AISTATS 2024
+  thumbnail: lipschitz.png
+  paper: https://proceedings.mlr.press/v238/khan24a.html
+  poster: /files/posters/lipschitz_aistats2024.pdf
+  code: https://github.com/zqkhan/Analyzing_Explainers_Code
+
+- title: "Unsupervised representation learning on high-dimensional clinical data improves genomic discovery and prediction"
+  authors: Taedong Yun, Justin Cosentino, Babak Behsaz, Zachary R. McCaw, Davin Hill, Robert Luben, Dongbing Lai, John Bates, Howard Yang, Tae-Hwi Schwantes-An, Yuchen Zhou, Anthony P. Khawaja, Andrew Carroll, Brian D. Hobbs, Michael H. Cho, Cory Y. McLean & Farhad Hormozdiari
+  venue: Nature Genetics 2024
+  thumbnail: natgen_regle.png
+  paper: https://www.nature.com/articles/s41588-024-01831-6
+  code: https://github.com/Google-Health/genomics-research/tree/main/mregle
+
+- title: "SmoothHess: ReLU Network Feature Interactions via Stein’s Lemma"
+  authors: Max Torop*, Aria Masoomi*, Davin Hill, Kivanc Kose, Stratis Ioannidis & Jennifer Dy
+  venue: NeurIPS 2023
+  thumbnail: smoothhess.png
+  paper: https://proceedings.neurips.cc/paper_files/paper/2023/hash/9ef5e965720193681fc8d16372ac4717-Abstract-Conference.html
+  poster: https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70998.png?t=1702167195.843354
+  code: https://github.com/MaxTorop/SmoothHess
+
+- title: "Genome-wide association study of emphysema- and airway-predominant deep learning subtypes"
+  authors: Davin Hill, Kangjin Kim, Matthew Moll, Max Torop, Aria Masoomi, Sandeep Bodduluri, Peter J. Castaldi, Brian D. Hobbs, Jennifer Dy, Surya P. Bhatt & Michael H. Cho
+  venue: ASHG 2023
+  thumbnail: ashg_2023.png
+  poster: /files/posters/gwas_subtypes_ashg2023.pdf
+
+- title: "Inference of chronic obstructive pulmonary disease with deep learning on raw spirograms identifies new genetic loci and improves risk models"
+  authors: Justin Cosentino, Babak Behsaz, Babak Alipanahi, Zachary R. McCaw, Davin Hill, Tae-Hwi Schwantes-An, Dongbing Lai, Andrew Carroll, Brian D. Hobbs, Michael H. Cho, Cory Y. McLean & Farhad Hormozdiari
+  venue: Nature Genetics 2023
+  thumbnail: natgen.png
+  paper: https://www.nature.com/articles/s41588-023-01372-4
+  code: https://github.com/Google-Health/genomics-research/tree/main/ml-based-copd
+
+- title: "Explanations of Black-Box Models based on Directional Feature Interactions"
+  authors: Aria Masoomi, Davin Hill, Zhonghui Xu, Craig P. Hersh, Edwin K. Silverman, Peter J. Castaldi, Stratis Ioannidis & Jennifer Dy
+  venue: ICLR 2022 (Spotlight, ~5% of submissions)
+  thumbnail: bivshap.png
+  paper: https://openreview.net/forum?id=45Mr7LeKR9
+  poster: /files/posters/bivshap_iclr2022.pdf
+  code: https://github.com/davinhill/BivariateShapley
+
+- title: "Deep Learning Utilizing Discarded Spirometry Data to Improve Lung Function and Mortality Prediction in the UK Biobank"
+  authors: Davin Hill, Max Torop, Aria Masoomi, Peter J. Castaldi, Michael H. Cho, Jennifer Dy & Brian D. Hobbs
+  venue: ATS 2022 (Oral, ~5% of submissions)
+  thumbnail: ats_2022.png
+  poster: /files/posters/spirometry_ats2022.pdf
